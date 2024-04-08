@@ -1,4 +1,5 @@
 from .user import UserViewSet
 from .acessorio import AcessorioViewSet
-from .categoria import CategoriaSerializer
-from .cor import CorSerializer
+from .categoria import CategoriaViewSet
+from .cor import CorViewSet
+from .marca import MarcaViewSet
