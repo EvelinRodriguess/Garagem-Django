@@ -5,5 +5,5 @@ from core.models import Acessorio
 
 class AcessorioSerializer(ModelSerializer):
     class Meta:
-        model = User
+        model = Acessorio
         fields = "__all__"
